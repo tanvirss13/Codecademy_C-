@@ -23,3 +23,6 @@ class Profile{
     void add_hobby(std::string new_hobby);
     
 };
+
+
+#endif
